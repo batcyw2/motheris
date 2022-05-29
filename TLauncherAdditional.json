@@ -1,0 +1,596 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "additionalFiles": [
+    {
+      "sha1": "52e1b15676c03b5e1b769f5bd7d89426e9807c89",
+      "size": 9349972,
+      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar"
+    },
+    {
+      "sha1": "a661c6a55a0600bd391bdbbd6827654c05b2109c",
+      "size": 6716693,
+      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-mappings.txt",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-mappings.txt"
+    },
+    {
+      "sha1": "2b8907919c1d51fda0b2ace0eba8a8b73855198f",
+      "size": 10909711,
+      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar"
+    },
+    {
+      "sha1": "c649df7e8dfbff5b8e571f5a37a0cb755119eb77",
+      "size": 16166247,
+      "path": "libraries/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar"
+    },
+    {
+      "sha1": "808678f48275fea8fb1cacd4e0ed33b21b605cb9",
+      "size": 5031466,
+      "path": "libraries/net/minecraftforge/forge/1.18.2-40.1.25/forge-1.18.2-40.1.25-client.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.18.2-40.1.25/forge-1.18.2-40.1.25-client.jar"
+    },
+    {
+      "sha1": "18bc95ab46617344806bc28a003b4423f60953c5",
+      "size": 2428595,
+      "path": "libraries/net/minecraftforge/forge/1.18.2-40.1.25/forge-1.18.2-40.1.25-universal.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/forge/1.18.2-40.1.25/forge-1.18.2-40.1.25-universal.jar"
+    },
+    {
+      "sha1": "ed052d552f89eca2849a7e5ab2760ef1e5781c30",
+      "size": 109651,
+      "path": "libraries/net/minecraftforge/fmlcore/1.18.2-40.1.25/fmlcore-1.18.2-40.1.25.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/fmlcore/1.18.2-40.1.25/fmlcore-1.18.2-40.1.25.jar"
+    },
+    {
+      "sha1": "77823c9b7d149b2bc002f19f24b07226288ba28f",
+      "size": 16292,
+      "path": "libraries/net/minecraftforge/javafmllanguage/1.18.2-40.1.25/javafmllanguage-1.18.2-40.1.25.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/javafmllanguage/1.18.2-40.1.25/javafmllanguage-1.18.2-40.1.25.jar"
+    },
+    {
+      "sha1": "20abed3d9dd71d7bb626e890342df607b2766994",
+      "size": 4987,
+      "path": "libraries/net/minecraftforge/mclanguage/1.18.2-40.1.25/mclanguage-1.18.2-40.1.25.jar",
+      "url": "http://res.tlauncher.org/unb/libraries/cache/net/minecraftforge/mclanguage/1.18.2-40.1.25/mclanguage-1.18.2-40.1.25.jar"
+    }
+  ],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -90067744996200,
+    "name": "lovegod",
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "version": {
+            "id": 11001986,
+            "name": "1.22",
+            "metadata": {
+              "sha1": "6715eb1da16028042609d2f8fb03d637ce4dc546",
+              "size": 536720,
+              "path": "mods/tl_skin_cape_forge_1.18_1.18.2-1.25.jar",
+              "url": "/mods/10000020/11001986/tl_skin_cape_forge_1.18_1.18.2-1.25.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 563928,
+          "name": "TerraBlender (Forge)",
+          "version": {
+            "id": 3800961,
+            "name": "TerraBlender Forge 1.18.2-1.1.0.100",
+            "metadata": {
+              "sha1": "f1d8c8200736c84997ac742ae5d7839ca157b2f5",
+              "size": 96138,
+              "path": "mods/TerraBlender-forge-1.18.2-1.1.0.100.jar",
+              "url": "/mods/563928/3800961/TerraBlender-forge-1.18.2-1.1.0.100.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 220318,
+          "name": "Biomes O' Plenty",
+          "version": {
+            "id": 3804254,
+            "name": "1.18.2-16.0.0.115",
+            "metadata": {
+              "sha1": "0a795b18f694ca9538fbbcb4300ba5d2f3e96213",
+              "size": 21245046,
+              "path": "mods/BiomesOPlenty-1.18.2-16.0.0.115.jar",
+              "url": "/mods/220318/3804254/BiomesOPlenty-1.18.2-16.0.0.115.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 563928,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 9999999,
+          "name": "OptiFine",
+          "version": {
+            "id": 11001989,
+            "name": "1.18.2_HD_U_H7",
+            "metadata": {
+              "sha1": "70b3d94e29ca4270881eb8dadba87c0c0ba48d93",
+              "size": 6115048,
+              "path": "mods/OptiFine-1.18.2_HD_U_H7.jar",
+              "url": "/mods/9999999/11001989/OptiFine-1.18.2_HD_U_H7.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 55438,
+          "name": "MrCrayfish's Furniture Mod",
+          "version": {
+            "id": 3683524,
+            "name": "Furniture Mod 7.0.0-pre29",
+            "metadata": {
+              "sha1": "7e0196019192f7853180efdf90e2a562734125df",
+              "size": 2171166,
+              "path": "mods/cfm-7.0.0-pre29-1.18.2.jar",
+              "url": "/mods/55438/3683524/cfm-7.0.0-pre29-1.18.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 331936,
+          "name": "Citadel",
+          "version": {
+            "id": 3783096,
+            "name": "citadel-1.11.3-1.18.2",
+            "metadata": {
+              "sha1": "ca5d46c752f10dae0d77d41a52527f6eacd1895e",
+              "size": 503137,
+              "path": "mods/citadel-1.11.3-1.18.2.jar",
+              "url": "/mods/331936/3783096/citadel-1.11.3-1.18.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 426558,
+          "name": "Alex's Mobs",
+          "version": {
+            "id": 3785938,
+            "name": "alexsmobs-1.18.3",
+            "metadata": {
+              "sha1": "8ce5cacf888fdc712d64f5c833f81dd5eb182084",
+              "size": 22362276,
+              "path": "mods/alexsmobs-1.18.3.jar",
+              "url": "/mods/426558/3785938/alexsmobs-1.18.3.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 331936,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 580381,
+          "name": "EyeMod - A phone mod",
+          "version": {
+            "id": 3765186,
+            "name": "1.18.2 - EyeMod - (v1.3b)",
+            "metadata": {
+              "sha1": "f0aef92e19af323cfed2ac37edc18f6b296bb215",
+              "size": 618156,
+              "path": "mods/eyemod-1.3b.jar",
+              "url": "/mods/580381/3765186/eyemod-1.3b.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 531761,
+          "name": "Balm (Forge Edition)",
+          "version": {
+            "id": 3767671,
+            "name": "balm-3.0.3+0",
+            "metadata": {
+              "sha1": "5adac76aa814044a8de5ca26e590bc34a5ba5c0f",
+              "size": 614089,
+              "path": "mods/balm-3.0.3+0.jar",
+              "url": "/mods/531761/3767671/balm-3.0.3+0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 245755,
+          "name": "Waystones",
+          "version": {
+            "id": 3684732,
+            "name": "waystones-forge-1.18.2-10.0.0",
+            "metadata": {
+              "sha1": "7fba6d49617f9cb2156e22c919e83d549291f1b2",
+              "size": 352811,
+              "path": "mods/waystones-forge-1.18.2-10.0.0.jar",
+              "url": "/mods/245755/3684732/waystones-forge-1.18.2-10.0.0.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 531761,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 348521,
+          "name": "Cloth Config API (FabricForge)",
+          "version": {
+            "id": 3782776,
+            "name": "[Forge 1.18.x] v6.2.62",
+            "metadata": {
+              "sha1": "1da6c984afef261cd5484ede8685abfe5242198b",
+              "size": 1133101,
+              "path": "mods/cloth-config-6.2.62-forge.jar",
+              "url": "/mods/348521/3782776/cloth-config-6.2.62-forge.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 238911,
+          "name": "Grappling Hook Mod",
+          "version": {
+            "id": 3795235,
+            "name": "v13 for 1.18.2",
+            "metadata": {
+              "sha1": "8120486ab09034379655a71e3fdc9dcfd971739c",
+              "size": 508526,
+              "path": "mods/grappling_hook_mod-1.18.2-v13.jar",
+              "url": "/mods/238911/3795235/grappling_hook_mod-1.18.2-v13.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 348521,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 59652,
+          "name": "SecretRoomsMod",
+          "version": {
+            "id": 3764897,
+            "name": "secretrooms-1.18.2-1.1.5",
+            "metadata": {
+              "sha1": "1149e72a55c454c131fe1733fee8d83370d3daf7",
+              "size": 242925,
+              "path": "mods/secretrooms-1.18.2-1.1.5.jar",
+              "url": "/mods/59652/3764897/secretrooms-1.18.2-1.1.5.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 64760,
+          "name": "Security Craft",
+          "version": {
+            "id": 3696873,
+            "name": "[1.18.2]  v1.9.1",
+            "metadata": {
+              "sha1": "c5ce470e8f71980972cf44d5041c4d5eff8ed0bc",
+              "size": 2918644,
+              "path": "mods/[1.18.2] SecurityCraft v1.9.1.jar",
+              "url": "/mods/64760/3696873/%5B1.18.2%5D%20SecurityCraft%20v1.9.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 238222,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 324717,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 245211,
+              "dependencyType": "optional"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 476409,
+          "name": "Budschie's Morph Mod",
+          "version": {
+            "id": 3802542,
+            "name": "Release bmorph-1.18.2-1.0.1",
+            "metadata": {
+              "sha1": "0d6a2dbb0897c1437c365521ca212f2c12fa078e",
+              "size": 2175028,
+              "path": "mods/bmorph-1.18.2-1.0.1.jar",
+              "url": "/mods/476409/3802542/bmorph-1.18.2-1.0.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 298744,
+          "name": "Structurize",
+          "version": {
+            "id": 3788297,
+            "name": "structurize-1.18.2-1.0.397-ALPHA",
+            "metadata": {
+              "sha1": "81a117000049152c4b4459bcffaa90dd96586f67",
+              "size": 825306,
+              "path": "mods/structurize-1.18.2-1.0.397-ALPHA.jar",
+              "url": "/mods/298744/3788297/structurize-1.18.2-1.0.397-ALPHA.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 522992,
+          "name": "BlockUI",
+          "version": {
+            "id": 3669806,
+            "name": "blockui-1.18.2-0.0.47-ALPHA",
+            "metadata": {
+              "sha1": "1395b3275413ee3e0b51200f48f89bc24f9f0fe6",
+              "size": 189536,
+              "path": "mods/blockui-1.18.2-0.0.47-ALPHA.jar",
+              "url": "/mods/522992/3669806/blockui-1.18.2-0.0.47-ALPHA.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 303278,
+          "name": "Multi-Piston",
+          "version": {
+            "id": 3789132,
+            "name": "multi-piston-1.18.2-1.2.7-ALPHA",
+            "metadata": {
+              "sha1": "14271be44fa8256f8e0b6c956c27d617f407d13b",
+              "size": 51169,
+              "path": "mods/multi-piston-1.18.2-1.2.7-ALPHA.jar",
+              "url": "/mods/303278/3789132/multi-piston-1.18.2-1.2.7-ALPHA.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 522992,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 298744,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 527361,
+          "name": "Domum Ornamentum",
+          "version": {
+            "id": 3745606,
+            "name": "domum_ornamentum-1.18.2-1.0.50-ALPHA-universal",
+            "metadata": {
+              "sha1": "e9b7658c891b8b8ad6e30c071d5f56b15b774c85",
+              "size": 844556,
+              "path": "mods/domum_ornamentum-1.18.2-1.0.50-ALPHA-universal.jar",
+              "url": "/mods/527361/3745606/domum_ornamentum-1.18.2-1.0.50-ALPHA-universal.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 257814,
+          "name": "CreativeCore",
+          "version": {
+            "id": 3803832,
+            "name": "_FABRIC_v2.6.11_mc1.18.2",
+            "metadata": {
+              "sha1": "1e0b7f4f36e260a2590b93aec8d4685c94550194",
+              "size": 873451,
+              "path": "mods/CreativeCore_FABRIC_v2.6.11_mc1.18.2.jar",
+              "url": "/mods/257814/3803832/CreativeCore_FABRIC_v2.6.11_mc1.18.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 306612,
+          "name": "Fabric API",
+          "version": {
+            "id": 3803456,
+            "name": "[1.18.2]  0.53.4+1.18.2",
+            "metadata": {
+              "sha1": "2c9e471060f23a4b5ae49e3ccbf27fae1ad10a76",
+              "size": 1352025,
+              "path": "mods/fabric-api-0.53.4+1.18.2.jar",
+              "url": "/mods/306612/3803456/fabric-api-0.53.4+1.18.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 273744,
+          "name": "U Team Core",
+          "version": {
+            "id": 3784362,
+            "name": "U-Team-Core (Fabric)-1.18.2-4.0.0.2",
+            "metadata": {
+              "sha1": "5d3683d8a264e8d8ee84db0b65d9501b5e0a539c",
+              "size": 146091,
+              "path": "mods/u_team_core-fabric-1.18.2-4.0.0.2.jar",
+              "url": "/mods/273744/3784362/u_team_core-fabric-1.18.2-4.0.0.2.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 294574,
+          "name": "Music Player",
+          "version": {
+            "id": 3784348,
+            "name": "Music-Player (Fabric)-1.18.2-2.3.3.1",
+            "metadata": {
+              "sha1": "a045f59e9ec28b89f0184c9abd9315e095160874",
+              "size": 11161778,
+              "path": "mods/music_player-fabric-1.18.2-2.3.3.1.jar",
+              "url": "/mods/294574/3784348/music_player-fabric-1.18.2-2.3.3.1.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 306612,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 273744,
+              "dependencyType": "required"
+            }
+          ]
+        },
+        {
+          "stateGameElement": "active",
+          "id": 430513,
+          "name": "Player Mobs",
+          "version": {
+            "id": 3736288,
+            "name": "1.18.1-2.1.3.16",
+            "metadata": {
+              "sha1": "e4baddb5c0f602267a5ab3bbf459e34ee45c0d20",
+              "size": 401891,
+              "path": "mods/PlayerMobs-1.18.1-2.1.3.16.jar",
+              "url": "/mods/430513/3736288/PlayerMobs-1.18.1-2.1.3.16.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 457570,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 459701,
+              "dependencyType": "optional"
+            }
+          ]
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [
+        {
+          "stateGameElement": "active",
+          "id": 10000040,
+          "name": "Sildur's Vibrant",
+          "version": {
+            "id": 11001744,
+            "name": "Sildurs Vibrant Shaders v1.283 Extreme-VL",
+            "metadata": {
+              "sha1": "f9573eed591c961ebdbfeb0926be0f3914c78e88",
+              "size": 141330,
+              "path": "shaderpacks/Sildurs Vibrant Shaders v1.283 Extreme-VL.zip",
+              "url": "/shaderpacks/10000040/11001744/Sildurs%20Vibrant%20Shaders%20v1.283%20Extreme-VL.zip"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 9999999,
+              "dependencyType": "required"
+            }
+          ]
+        }
+      ],
+      "forgeVersion": "40.1.25",
+      "gameVersion": "1.18.2",
+      "id": -90067745010201,
+      "name": "1.0"
+    },
+    "userInstall": false,
+    "populateStatus": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.18.2",
+  "skinVersion": true
+}
